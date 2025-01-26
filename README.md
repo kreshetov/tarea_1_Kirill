@@ -1,4 +1,4 @@
-| **NOMBRE** | **GITHUB** |
+| **NOMBRE**   | **GITHUB**                     |
 |1 _Ester_|[LINK](github.com/TerlaProfe)|
 |2 _Will_|[LINK](github.com/witerber2009)|
 |3 _Ale_|[LINK](github.com/alejandro864)|
